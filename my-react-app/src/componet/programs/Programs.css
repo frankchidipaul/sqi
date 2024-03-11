@@ -1,0 +1,60 @@
+   .programs{
+    background-color:#fff ;
+    margin: 80px auto;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.program img{
+width: 100%;
+
+display: block;
+background-color: #fff;
+
+}
+.program{
+    
+    flex-basis: 31%;
+}
+.program_1{
+ filter: grayscale(100%); 
+}
+.program-bigtext{
+    margin-top:20px ;
+color: #000e54;
+font-size: 19px;
+font-weight: 700;
+}
+.program-smalltext{
+margin-top:10%;
+color: #686666;
+font-size: 14px;
+font-weight: 500;
+font-family:sans-serif ;
+}
+.program_2{
+filter: grayscale(100%);
+}
+.program_3{
+filter: grayscale(100%);
+}
+
+.learn-more{
+    color: #263698;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top:3%;
+position: absolute;
+
+
+}
+.underline{
+    margin-top:5%;
+width:80px;
+position: absolute;
+border: 1.2px solid #263698;
+
+}
